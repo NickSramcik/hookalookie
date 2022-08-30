@@ -3,7 +3,7 @@ This project is a portfolio page for an extremely eccentric performer of magic. 
 
 **Link to project:** https://hookalookie.netlify.app/
 
-[Website preview](https://i.imgur.com/B8aG2b9.png)
+![Website preview](https://i.imgur.com/B8aG2b9.png)
 
 ## How It's Made:
 
